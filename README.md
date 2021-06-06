@@ -1,3 +1,3 @@
-# Exploratory_Data_Analysis_I
+# Análisis Exploratorio de Datos
 
 Repositorio del curso de Análisis Exploratorio de Datos de Platzi.
